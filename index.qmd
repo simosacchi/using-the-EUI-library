@@ -17,7 +17,7 @@ format:
     preview-links: auto
     logo: images/EUI_logo.png
     css: styles.css
-    footer: 'Using the EUI Library: what you need to know - 10 December 2025'
+    footer: 'Using the EUI Library: what you need to know'
 ---
 
 ## Before we start
