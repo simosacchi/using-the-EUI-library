@@ -1,0 +1,13 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: 'Nunito Sans', sans-serif;
+$link-color: #42affa;
+$bg-color: #000000;
+$slide-bg-color: #000000;
+$presentation-font-size-root: 40px;
+
+/*-- scss:rules --*/
+
+.reveal .slide blockquote {
+  border-left: 3px solid $text-muted;
+  padding-left: 0.5em;
+}

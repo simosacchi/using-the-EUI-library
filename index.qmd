@@ -1,0 +1,227 @@
+---
+title: '<br/>Using the EUI Library'
+subtitle: 'What you need to know</br></br><strong>Simone Sacchi, Ph.D.</strong></br>Research data Librarian</br>Library liaison for the RSC<br/><a href=\"mailto:simone.sacchi@eui.eu\">simone.sacchi@eui.eu</a>'
+title-slide-attributes:
+  data-background-image: 'images/EUI-logo-acronym.svg'
+  data-background-size: '25%'
+  data-background-position: top 5% center
+  data-background-repeat: no-repeat
+format:
+  revealjs:
+    theme: 
+    - default
+    - custom.scss
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: images/EUI_logo.png
+    css: styles.css
+    footer: 'Using the EUI Library: what you need to know - 10 December 2025'
+---
+
+## Before we start
+
+* These slides are a summary of a course we give to newcomers that usually lasts much longer
+* Many details are intentionally skipped, but this slide deck provides reference points and links to get all the information!
+
+---
+
+## Covered topics
+
+* [Work in the library](#work-in-the-library)
+* [Borrowing books](#borrowing-books)
+* [Finding books and eBooks](#search-library-resources)
+* [My library account](#my-library-account)
+* [Interlibrary Loans and book purchases](#need-a-book-we-do-not-have)
+* [Electronic Resources](#access-to-electronic-resources-1)
+* [Dedicated research support](#research-support)
+
+---
+
+## Work in the Library
+
+* Open Mon-Sat, 8.30-22.30 (Entrance/exit from the lower loggia)
+* Wide choice of seats, first-come-first-serve basis 
+* Bookable rooms: Discussion Room and Stockholm meeting room
+* Library is open-shelves (but several books are in dislocated storage)
+* No food, drink from bottled water only
+* No talking on the phone except in the Social Room
+
+---
+
+## Borrowing books
+
+* 60 items (books, DVDs) at once
+* Most books can be borrowed for a month and renewed up to 24 times
+* READ EMAIL NOTIFICATIONS about your books
+* We enforce fines 
+* Your account is blocked when fines reach €50
+
+---
+
+## Search Library resources
+
+[![](images/search.png)](https://www.eui.eu/en/services/library){data-preview-link="true"}
+
+---
+
+## Book Delivery Service
+
+* Carried out once a day. Make your request by 8:30 to get them on the same day.
+* Borrow/return in: Palazzo Buontalenti, Villa La Fonte, Villa Salviati and **Villa Schifanoia**.
+
+[![](images/delivery.svg){fig-align="center" width="10%"}](https://www.eui.eu/Research/Library/Services/BookDeliveryService)
+
+:::{.callout-note appearance="minimal"}
+
+Read more: [https://www.eui.eu/Research/Library/Services/BookDeliveryService](https://www.eui.eu/Research/Library/Services/BookDeliveryService){data-preview-link="true"}
+
+:::
+
+---
+
+## My Library Account
+
+* To check your loans
+* To renew your loans
+* To place book requests
+
+![](images/account.png){fig-align="center"}
+
+---
+
+## Access to electronic resources [1]
+
+* On campus (EUI WiFi)
+* Off-campus:
+  * Through the Library catalogue: [EUI Account](https://www.eui.eu/ServicesAndAdmin/ComputingService/ComputingAccounts/AccountOverview){data-preview-link="true"}
+  * [VPN Remote Connection](https://www.eui.eu/ServicesAndAdmin/ComputingService/Network/VPN){data-preview-link="true"} offers EUI members a secure connection to the EUI's private network
+
+:::{.callout-note appearance="minimal"}
+
+Read more: [https://eui.libguides.com/electronic-resources](https://eui.libguides.com/electronic-resources){data-preview-link="true"}
+
+:::
+
+---
+
+## Access to electronic resources [2]
+
+* Directly on the publisher's website (off-campus):
+
+![](images/oxford.png){fig-align="center"}
+
+---
+
+## Problem with a resource?
+
+* If you have problem we have a **Report an access problem** form:
+
+![](images/report_problem.png){fig-align="center"}
+
+---
+
+## Need a book we do not have?
+
+* Suggest a **book purchase** or request an **interlibrary loan**
+
+![](images/request.png){fig-align="center"}
+
+---
+
+## Purchase requests: a warning
+
+![](images/warning_purchase.png){fig-align="center"}
+
+* eBook price on publisher’s website: €18.71
+* eBook price for library providers: $540.00
+
+---
+
+## Interlibrary Loans (ILL)
+
+* The Library borrows books on your behalf OR requests a book chapter or article
+* 80 per person per year, free of charge
+* You may ask for single book chapters and single articles, it’s quicker and digital
+* If you’re leaving Florence soon, postpone your request
+
+:::{.callout-note appearance="minimal"}
+
+Read more: [https://eui.libguides.com/ill-dd-service](https://eui.libguides.com/ill-dd-service){data-preview-link="true"}
+
+:::
+
+
+---
+
+## Purchase or ILL?
+
+* Was the book published in the last 2 years?
+  * YES: request to purchase
+  * NO: request an ILL
+* BONUS: check  at the other [Florentine libraries](https://eui.libguides.com/libraries-in-florence){data-preview-link="true"}!
+
+---
+
+## Research support
+
+<style>
+.container{
+  display: flex;
+}
+.col {
+  flex: 1;
+}
+</style>
+
+::: {.container}
+:::: {.col}
+
+**Disciplinary guides**
+
+* [Economics Guide](https://www.eui.eu/research/library/researchguides/economics){data-preview-link="true"}
+* [History Guide](https://eui.libguides.com/History){data-preview-link="true"}
+* [Law Guide](https://eui.libguides.com/Law){data-preview-link="true"}
+* [Social and Political Sciences Guide](https://www.eui.eu/Research/Library/ResearchGuides/PoliticalAndSocialSciences){data-preview-link="true"}
+
+::::
+:::: {.col}
+
+**Open Access and** 
+
+**Research Data**
+
+* [Publishing and Open Access Guide](https://eui.libguides.com/OAPublishing_LibraryAgreements){data-preview-link="true"}
+* [Research Data Guide](https://eui.libguides.com/research-data-guide){data-preview-link="true"}
+
+::::
+:::
+
+:::{.callout-note appearance="minimal"}
+
+All library guides available here: [https://eui.libguides.com/](https://eui.libguides.com/){data-preview-link="true"}
+
+:::
+
+---
+
+## Who to contact {.center background-image="/images/just_science_done_right.png" background-position="top right" background-repeat="no-repeat" background-size="15%" style="text-align: center;"}
+
+::: {style="text-align: center; margin-top: 1em"}
+
+**Simone Sacchi**
+
+[simone.sacchi@eui.eu](mailto:simone.sacchi@eui.eu)
+
+[rsclib@eui.eu](mailto:rsclib@eui.eu)
+
+(Also Teams and BF-278)
+
+:::
+
+---
+
+## Acknowledgements
+
+I wish thank [Federica Signoriello](https://www.eui.eu/people?id=federica-signoriello){data-preview-link="true"}, EUI Library Information Specialist for History, for allowing me to reuse the invaluable content she prepared.
